@@ -1,0 +1,14 @@
+module selec2(clk ,a ,reset ,out)
+
+input clk, reset;
+input a;
+output out;
+assign out <= 1;
+always@(posedge clk)
+begin
+	if(reset)
+	  out <=1;
+	else if (a)
+ 	  out <=0;
+end
+endmodule

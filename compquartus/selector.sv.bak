@@ -1,0 +1,14 @@
+module selector(a , clk , out);
+
+input a,clk;
+output [2:0] out;
+	out <= 3'b000;
+always@(posedge clk)
+begin
+ if(a)
+	out = out +1 ;
+end
+endmodule;
+
+
+  

@@ -1,0 +1,217 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "s_10out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "s_10out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "s_10out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "s_1out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "s_1out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "s_1out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "s_25out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "s_25out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "s_25out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "s_50out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "s_50out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "s_50out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "s_5out[2]",
+					"strict" : false
+				},
+				{
+					"name" : "s_5out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "s_5out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "A[3]",
+					"strict" : false
+				},
+				{
+					"name" : "A[2]",
+					"strict" : false
+				},
+				{
+					"name" : "A[1]",
+					"strict" : false
+				},
+				{
+					"name" : "A[0]",
+					"strict" : false
+				},
+				{
+					"name" : "A[4]",
+					"strict" : false
+				},
+				{
+					"name" : "A[5]",
+					"strict" : false
+				},
+				{
+					"name" : "A[6]",
+					"strict" : false
+				},
+				{
+					"name" : "IO_50[4]",
+					"strict" : false
+				},
+				{
+					"name" : "I2_10[4]",
+					"strict" : false
+				},
+				{
+					"name" : "I1_25[4]",
+					"strict" : false
+				},
+				{
+					"name" : "I3_5[4]",
+					"strict" : false
+				},
+				{
+					"name" : "IO_50[5]",
+					"strict" : false
+				},
+				{
+					"name" : "I2_10[5]",
+					"strict" : false
+				},
+				{
+					"name" : "I1_25[5]",
+					"strict" : false
+				},
+				{
+					"name" : "I3_5[5]",
+					"strict" : false
+				},
+				{
+					"name" : "IO_50[6]",
+					"strict" : false
+				},
+				{
+					"name" : "I2_10[6]",
+					"strict" : false
+				},
+				{
+					"name" : "I1_25[6]",
+					"strict" : false
+				},
+				{
+					"name" : "I3_5[6]",
+					"strict" : false
+				},
+				{
+					"name" : "IO_50[3]",
+					"strict" : false
+				},
+				{
+					"name" : "I2_10[3]",
+					"strict" : false
+				},
+				{
+					"name" : "I1_25[3]",
+					"strict" : false
+				},
+				{
+					"name" : "I3_5[3]",
+					"strict" : false
+				},
+				{
+					"name" : "IO_50[1]",
+					"strict" : false
+				},
+				{
+					"name" : "I2_10[1]",
+					"strict" : false
+				},
+				{
+					"name" : "I1_25[1]",
+					"strict" : false
+				},
+				{
+					"name" : "I3_5[1]",
+					"strict" : false
+				},
+				{
+					"name" : "IO_50[2]",
+					"strict" : false
+				},
+				{
+					"name" : "I2_10[2]",
+					"strict" : false
+				},
+				{
+					"name" : "I1_25[2]",
+					"strict" : false
+				},
+				{
+					"name" : "I3_5[2]",
+					"strict" : false
+				},
+				{
+					"name" : "IO_50[0]",
+					"strict" : false
+				},
+				{
+					"name" : "I2_10[0]",
+					"strict" : false
+				},
+				{
+					"name" : "I1_25[0]",
+					"strict" : false
+				},
+				{
+					"name" : "I3_5[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
